@@ -1,3 +1,5 @@
+*** ALL CREDITS TO ORIGINAL DEV.GABRIEL SILVA *** : https://github.com/silvagabriel62
+
 # pyprotecao
 This is a simple online tool to obfuscate python codes and "hide" their sources.\
 It was designed to be a revival of _pyobfuscate.tk_ project (rest in peace). Entirely developed in PHP.
