@@ -28,6 +28,7 @@ We use simple Base64 encoding and some string manipulations to obfuscate the fil
 Made with love by [Milhano](http://milhano.com.pt), in Portugal.\
 Support: j2mf42@gmail.com
 
-ALL CREDITS TO ORIGINAL DEV.GABRIEL SILVA : https://github.com/silvagabriel62
 
-P.S.: Sorry about the poor English! :poop:
+      *** ALL CREDITS TO ORIGINAL DEV.GABRIEL SILVA *** : https://github.com/silvagabriel62
+
+
